@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  'Prompt', sans-serif;
+}
+
+.elNav{
+    background: #cc2b5e;  
+    background: -webkit-linear-gradient(to bottom, #cd88e4, #cc2b5e);  
+    background: linear-gradient(to bottom, #cd88e4, #cc2b5e);
+    
+}
+
+
+
+
+.logoNav{
+    height: 40%;
+    width:40%;
+}
+
+
+
+

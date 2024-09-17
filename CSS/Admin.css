@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Prompt', sans-serif;
+}
+
+
+
+#bodyAdmin{
+    background: #e4336b; 
+    background: -webkit-linear-gradient(to bottom, #b283c2, #cc2b5e); 
+    background: linear-gradient(to bottom, #e7e1e9, #cc2b5e); 
+}
+#elNavBar{
+    background: #cc2b5e;  
+background: -webkit-linear-gradient(to bottom, #cd88e4, #cc2b5e);  
+background: linear-gradient(to bottom, #cd88e4, #cc2b5e); 
+}
+#colorModal, #colorModal2{
+    background: #ff6e7f;  
+    background: -webkit-linear-gradient(to bottom, #bfe9ff, #ff6e7f); 
+    background: linear-gradient(to bottom, #bfe9ff, #ff6e7f); 
+}
+
+/* ************************************ESTILOS DEL FOOTER*********************************** */
+.masBusk2{
+    text-decoration: none;
+}
+.redes{
+    font-size: 30px;
+    color: #fff;
+}
+
+.navbar-color{
+    background: #cc2b5e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #cd88e4, #cc2b5e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #cd88e4, #cc2b5e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   
+}
+footer{
+    background: #cc2b5e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #cd88e4, #cc2b5e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #cd88e4, #cc2b5e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+@media screen and (max-width:700px) {
+    #logOut{
+        margin-top: 20px;
+    }
+}
